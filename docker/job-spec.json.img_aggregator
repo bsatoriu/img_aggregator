@@ -1,5 +1,5 @@
 {
   "command": "/home/ops/verdi/ops/img_aggregator/run_prelim.sh",
-  "recommended-queues": [ "maap-job_worker-1" ],
+  "recommended-queues": [ "factotum-job_worker-small" ],
   "params": []
 }
